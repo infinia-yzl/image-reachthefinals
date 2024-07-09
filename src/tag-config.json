@@ -1,53 +1,43 @@
 {
   "subject": [
     {
-      "name": "nature",
-      "title": "Nature",
-      "description": "Images of natural landscapes, flora, or fauna"
+      "name": "light",
+      "title": "Light Build",
+      "description": "Equipment available to Light builds"
     },
     {
-      "name": "tech",
-      "title": "Technology",
-      "description": "Images related to technological devices or concepts"
+      "name": "medium",
+      "title": "Medium Build",
+      "description": "Equipment available to Medium builds"
     },
     {
-      "name": "people",
-      "title": "People",
-      "description": "Images featuring individuals or groups of people"
+      "name": "heavy",
+      "title": "Heavy Build",
+      "description": "Equipment available to Heavy builds"
     }
   ],
   "version": [
     {
-      "name": "1_0_0",
-      "title": "Image set Version 1",
-      "description": "Images from Version 1"
-    },
-    {
-      "name": "1_1_0",
-      "title": "Image set Version 1.1",
-      "description": "Images from Version 1.1"
-    },
-    {
-      "name": "2_0_0",
-      "title": "Image set Version 2.0",
-      "description": "Images from Version 2"
+      "name": "3_0_0",
+      "title": "Season 3",
+      "description": "Everything available in Season 3"
     }
   ],
   "general": [
     {
-      "name": "hq",
-      "title": "High Quality",
-      "description": "Images with exceptional clarity and detail"
+      "name": "special",
+      "title": "Specializations",
+      "description": "Images of build specializations"
     },
     {
-      "name": "colorful",
-      "title": "Colorful",
-      "description": "Images with a vibrant color palette"
+      "name": "weapon",
+      "title": "Weapons",
+      "description": "Images of weapons"
     },
     {
-      "name": "monochrome",
-      "title": "Black and White",
-      "description": "Monochrome images"
+      "name": "gadgets",
+      "title": "Gadgets",
+      "description": "Images of gadgets"
     }
   ]
 }
