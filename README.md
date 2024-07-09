@@ -12,7 +12,7 @@ This repository contains images from the game [The Finals](https://www.reachthef
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
 
 ## Contribution
-Contributions are welcome! If you have any images that should be included or if any of the images need to be removed, please let us know.
+Contributions are welcome! If you have any images that should be included, tagged, or if any of the images need to be removed, please let us know.
 
 ## Usage
 To use this package, install it via npm:
@@ -34,6 +34,3 @@ If any images are used inappropriately or need to be removed, please contact us 
 
 ## Issues
 For any issues or questions, please open an issue in this repository: [GitHub Issues](https://github.com/infinia-yzl/image-reachthefinals/issues)
-
-## Contributions
-Contributions are welcome! If you have any images that should be included, tagged, or if any of the images need to be removed, please open a pull request or issue. When contributing, please ensure your changes adhere to the existing style and conventions of the project.
