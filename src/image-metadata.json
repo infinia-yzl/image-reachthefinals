@@ -2,1457 +2,613 @@
   {
     "filename": "93R_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "93R"
   },
   {
     "filename": "AKM_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "AKM"
   },
   {
     "filename": "APS_Turret_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "APS Turret"
   },
   {
     "filename": "Anti-Gravity_Cube_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "ANTI-GRAVITY CUBE"
   },
   {
     "filename": "Barricade_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "BARRICADE"
   },
   {
     "filename": "Breach_Charge_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "BREACH CHARGE"
   },
   {
     "filename": "C4_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "C4"
   },
   {
     "filename": "CL-40_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "CL-40"
   },
   {
     "filename": "Charge_N_Slam_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "heavy",
+      "3_0_0",
+      "special"
     ],
     "label": "CHARGE 'N' SLAM"
   },
   {
     "filename": "Cloaking_Device_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "light",
+      "3_0_0",
+      "special"
     ],
     "label": "CLOAKING DEVICE"
   },
   {
     "filename": "Dagger_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "DAGGER"
   },
   {
     "filename": "Data_Reshaper_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "DATA RESHAPER"
   },
   {
     "filename": "Defibrillator_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "DEFIBRILLATOR"
   },
   {
     "filename": "Dematerializer_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "medium",
+      "3_0_0",
+      "special"
     ],
     "label": "DEMATERIALIZER"
   },
   {
     "filename": "Dome_Shield_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "DOME SHIELD"
   },
   {
     "filename": "Dual_Blades_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "DUAL BLADES"
   },
   {
     "filename": "Evasive_Dash_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "light",
+      "3_0_0",
+      "special"
     ],
     "label": "EVASIVE DASH"
   },
   {
     "filename": "Explosive_Mine_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "EXPLOSIVE MINE"
   },
   {
     "filename": "FAMAS_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "FAMAS"
   },
   {
     "filename": "FCAR_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "FCAR"
   },
   {
     "filename": "Flamethrower_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "FLAMETHROWER"
   },
   {
     "filename": "Flashbang_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "medium",
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "FLASHBANG"
   },
   {
     "filename": "Frag_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "medium",
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "FRAG GRENADE"
   },
   {
     "filename": "Gas_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "medium",
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "GAS GRENADE"
   },
   {
     "filename": "Gas_Mine_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "GAS MINE"
   },
   {
     "filename": "Gateway_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "GATEWAY"
   },
   {
     "filename": "Glitch_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "GLITCH GRENADE"
   },
   {
     "filename": "Glitch_Trap_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "GLITCH TRAP"
   },
   {
     "filename": "Goo_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "medium",
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "GOO GRENADE"
   },
   {
     "filename": "Goo_Gun_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "heavy",
+      "3_0_0",
+      "special"
     ],
     "label": "GOO GUN"
   },
   {
     "filename": "Grappling_Hook_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "light",
+      "3_0_0",
+      "special"
     ],
     "label": "GRAPPLING HOOK"
   },
   {
     "filename": "Guardian_Turret_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "medium",
+      "3_0_0",
+      "special"
     ],
     "label": "GUARDIAN TURRET"
   },
   {
     "filename": "Healing_Beam_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "medium",
+      "3_0_0",
+      "special"
     ],
     "label": "HEALING BEAM"
   },
   {
     "filename": "Jump_Pad_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "JUMP PAD"
   },
   {
     "filename": "KS-23_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "KS-23"
   },
   {
     "filename": "LH1_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "LH1"
   },
   {
     "filename": "Lewis_Gun_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "LEWIS GUN"
   },
   {
     "filename": "M11_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "M11"
   },
   {
     "filename": "M60_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "M60"
   },
   {
     "filename": "MGL32_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "MGL32"
   },
   {
     "filename": "Mesh_Shield_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "heavy",
+      "3_0_0",
+      "special"
     ],
     "label": "MESH SHIELD"
   },
   {
     "filename": "Model_1887_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "MODEL 1887"
   },
   {
     "filename": "Motion_Sensor_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "MOTION SENSOR"
   },
   {
     "filename": "Pyro_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "medium",
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "PYRO GRENADE"
   },
   {
     "filename": "Pyro_Mine_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "PYRO MINE"
   },
   {
     "filename": "RPG-7_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "heavy",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "RPG-7"
   },
   {
     "filename": "R_.357_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "R .357"
   },
   {
     "filename": "Recurve_Bow_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "RECURVE BOW"
   },
   {
     "filename": "Riot_Shield_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "medium",
+      "3_0_0",
+      "weapon"
     ],
     "label": "RIOT SHIELD"
   },
   {
     "filename": "SA1216_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "SA1216"
   },
   {
     "filename": "SH1900_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "SH1900"
   },
   {
     "filename": "SR-84_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "SR-84"
   },
   {
     "filename": "Sledgehammer_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "SLEDGEHAMMER"
   },
   {
     "filename": "Smoke_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "SMOKE GRENADE"
   },
   {
     "filename": "Sonar_Grenade_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "SONAR GRENADE"
   },
   {
     "filename": "Spear_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "heavy",
+      "3_0_0",
+      "weapon"
     ],
     "label": "SPEAR"
   },
   {
     "filename": "Stun_Gun_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "STUN GUN"
   },
   {
     "filename": "Sword_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "SWORD"
   },
   {
     "filename": "Thermal_Bore_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "THERMAL BORE"
   },
   {
     "filename": "Thermal_Vision_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "THERMAL VISION"
   },
   {
     "filename": "Throwing_Knives_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "THROWING KNIVES"
   },
   {
     "filename": "Tracking_Dart_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "TRACKING DART"
   },
   {
     "filename": "V9S_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "V9S"
   },
   {
     "filename": "Vanishing_Bomb_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "light",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "VANSHING BOMB"
   },
   {
     "filename": "Winch_Claw_Rank_1.webp",
     "tags": [
-      {
-        "name": "heavy",
-        "title": "Heavy Build",
-        "description": "Equipment available to Heavy builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "special",
-        "title": "Specializations",
-        "description": "Images of build specializations"
-      }
+      "heavy",
+      "3_0_0",
+      "special"
     ],
     "label": "WINCH CLAW"
   },
   {
     "filename": "XP-54_Rank_1.webp",
     "tags": [
-      {
-        "name": "light",
-        "title": "Light Build",
-        "description": "Equipment available to Light builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "weapon",
-        "title": "Weapons",
-        "description": "Images of weapons"
-      }
+      "light",
+      "3_0_0",
+      "weapon"
     ],
     "label": "XP-54"
   },
   {
     "filename": "Zipline_Rank_1.webp",
     "tags": [
-      {
-        "name": "medium",
-        "title": "Medium Build",
-        "description": "Equipment available to Medium builds"
-      },
-      {
-        "name": "3_0_0",
-        "title": "Season 3",
-        "description": "Everything available in Season 3"
-      },
-      {
-        "name": "gadgets",
-        "title": "Gadgets",
-        "description": "Images of gadgets"
-      }
+      "medium",
+      "3_0_0",
+      "gadgets"
     ],
     "label": "ZIPLINE"
   }
