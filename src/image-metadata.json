@@ -5,6 +5,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "93R"
@@ -15,6 +16,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "AKM"
@@ -25,6 +27,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "APS TURRET"
@@ -35,6 +38,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "ANTI-GRAVITY CUBE"
@@ -45,6 +49,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "BARRICADE"
@@ -55,6 +60,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "BREACH CHARGE"
@@ -65,6 +71,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "C4"
@@ -75,6 +82,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "CL-40"
@@ -85,6 +93,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "CHARGE 'N' SLAM"
@@ -95,6 +104,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "CLOAKING DEVICE"
@@ -105,6 +115,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "DAGGER"
@@ -115,6 +126,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "DATA RESHAPER"
@@ -125,6 +137,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "DEFIBRILLATOR"
@@ -135,6 +148,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "DEMATERIALIZER"
@@ -145,6 +159,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "DOME SHIELD"
@@ -155,6 +170,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "DUAL BLADES"
@@ -165,6 +181,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "EVASIVE DASH"
@@ -173,8 +190,10 @@
     "filename": "Explosive_Mine_Rank_1.webp",
     "tags": [
       "medium",
+      "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "EXPLOSIVE MINE"
@@ -185,6 +204,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "FAMAS"
@@ -195,6 +215,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "FCAR"
@@ -205,6 +226,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "FLAMETHROWER"
@@ -217,6 +239,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "FLASHBANG"
@@ -229,6 +252,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "FRAG GRENADE"
@@ -241,6 +265,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "GAS GRENADE"
@@ -251,6 +276,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "GAS MINE"
@@ -261,6 +287,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "GATEWAY"
@@ -271,6 +298,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "GLITCH GRENADE"
@@ -281,6 +309,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "GLITCH TRAP"
@@ -293,6 +322,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "GOO GRENADE"
@@ -303,6 +333,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "GOO GUN"
@@ -313,6 +344,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "GRAPPLING HOOK"
@@ -323,6 +355,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "GUARDIAN TURRET"
@@ -333,6 +366,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "HEALING BEAM"
@@ -343,6 +377,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "JUMP PAD"
@@ -353,6 +388,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "KS-23"
@@ -363,6 +399,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "LH1"
@@ -373,6 +410,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "LEWIS GUN"
@@ -383,6 +421,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "M11"
@@ -393,6 +432,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "M60"
@@ -403,6 +443,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "MGL32"
@@ -413,6 +454,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "MESH SHIELD"
@@ -423,6 +465,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "MODEL 1887"
@@ -431,8 +474,10 @@
     "filename": "Motion_Sensor_Rank_1.webp",
     "tags": [
       "heavy",
+      "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "MOTION SENSOR"
@@ -445,6 +490,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "PYRO GRENADE"
@@ -455,6 +501,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "PYRO MINE"
@@ -465,6 +512,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "RPG-7"
@@ -475,6 +523,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "R .357"
@@ -485,6 +534,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "RECURVE BOW"
@@ -495,6 +545,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "RIOT SHIELD"
@@ -505,6 +556,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "SA1216"
@@ -515,6 +567,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "SH1900"
@@ -525,6 +578,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "SR-84"
@@ -535,6 +589,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "SLEDGEHAMMER"
@@ -543,8 +598,11 @@
     "filename": "Smoke_Grenade_Rank_1.webp",
     "tags": [
       "light",
+      "medium",
+      "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "SMOKE GRENADE"
@@ -555,6 +613,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "SONAR GRENADE"
@@ -565,6 +624,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "SPEAR"
@@ -585,6 +645,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "SWORD"
@@ -595,6 +656,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "THERMAL BORE"
@@ -605,6 +667,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "THERMAL VISION"
@@ -615,6 +678,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "THROWING KNIVES"
@@ -625,6 +689,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "TRACKING DART"
@@ -635,6 +700,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "V9S"
@@ -645,6 +711,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "VANSHING BOMB"
@@ -655,6 +722,7 @@
       "heavy",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "special"
     ],
     "label": "WINCH CLAW"
@@ -665,6 +733,7 @@
       "light",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "XP-54"
@@ -675,6 +744,7 @@
       "medium",
       "3_0_0",
       "4_0_0",
+      "5_0_0",
       "gadgets"
     ],
     "label": "ZIPLINE"
@@ -684,6 +754,7 @@
     "tags": [
       "heavy",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": ".50 AKIMBO"
@@ -693,6 +764,7 @@
     "tags": [
       "light",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "M26 MATTER"
@@ -702,8 +774,50 @@
     "tags": [
       "medium",
       "4_0_0",
+      "5_0_0",
       "weapon"
     ],
     "label": "PIKE-556"
+  },
+  {
+    "filename": "Cerberus_12GA_Rank_1.webp",
+    "tags": [
+      "medium",
+      "4_0_0",
+      "5_0_0",
+      "weapon"
+    ],
+    "label": "CERBERUS 12GA"
+  },
+  {
+    "filename": "Gravity_Vortex_Rank_1.webp",
+    "tags": [
+      "light",
+      "3_0_0",
+      "4_0_0",
+      "5_0_0",
+      "weapon"
+    ],
+    "label": "GRAVITY VORTEX"
+  },
+  {
+    "filename": "Lockbolt_Launcher_Rank_1.webp",
+    "tags": [
+      "heavy",
+      "4_0_0",
+      "5_0_0",
+      "weapon"
+    ],
+    "label": "LOCKBOLT LAUNCHER"
+  },
+  {
+    "filename": "ShAK-50_Rank_1.webp",
+    "tags": [
+      "heavy",
+      "4_0_0",
+      "5_0_0",
+      "weapon"
+    ],
+    "label": "ShAK-50"
   }
 ]
